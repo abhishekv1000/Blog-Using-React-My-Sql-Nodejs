@@ -1,4 +1,4 @@
-DEPLOY LINK = https://blogmysql.netlify.app/ ............[It Have Only Backend Part]
+DEPLOY LINK = https://blogmysql.netlify.app/ ...........................[It Have Only Backend Part]
 FRONTEND = NELIFY && BACKEND = RENDER && SQL = CLEVER CLOUD
 
 
