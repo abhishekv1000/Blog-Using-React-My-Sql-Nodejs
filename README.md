@@ -1,4 +1,3 @@
-DEPLOY LINK = https://blogmysql.netlify.app/
+DEPLOY LINK = https://blogmysql.netlify.app/ ............[It Have Only Backend Part]
 
-It Have Only Backend Part
-FOR Full Source Code = https://github.com/abhishekv1000/MyBLOG-.git
+💕FOR Full Source Code = https://github.com/abhishekv1000/MyBLOG-.git
